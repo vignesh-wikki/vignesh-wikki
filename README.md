@@ -5,7 +5,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 ```yaml
-* name: Piyush Malhotra
+name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
 education:
@@ -36,7 +36,7 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"] *
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"] 
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
