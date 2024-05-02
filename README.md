@@ -74,7 +74,7 @@ hobbies: ["Learn new techs", "problem-solving"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal?border=true" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
