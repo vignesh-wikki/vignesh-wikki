@@ -28,7 +28,7 @@
 ```yaml
 name: Vignesh
 located_in: Namakkal , India
-current_job: Full Stack Developer
+current_year: Pre-final year
 education:
   [
     "Self-Taught Developer",
