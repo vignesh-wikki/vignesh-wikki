@@ -50,8 +50,8 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Code", "Eat", "Sleep"]
+2024 Goals: ["Create 25+ Projects and learn at least 1-5 new Technologies."]
+hobbies: ["Learn new techs", "problem-solving"]
 ```
   
 ---  
