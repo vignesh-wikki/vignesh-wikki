@@ -28,7 +28,7 @@
 ```yaml
 name: Vignesh
 located_in: Namakkal , India
-current_year: Pre-final year
+current_year: Final year
 education:
   [
     "Self-Taught Developer",
